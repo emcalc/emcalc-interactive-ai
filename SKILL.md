@@ -1,5 +1,5 @@
 ---
-name: emcalc_analyzer
+name: emcalc-analyzer
 description: Skill to analyze and interpret the physics outputs of the emcalc (Energy-Mass Calculator) program.
 ---
 

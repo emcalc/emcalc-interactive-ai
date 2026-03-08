@@ -1,9 +1,14 @@
 {
+    "name": "emcalc-marketplace",
+    "owner": {
+        "name": "emcalc"
+    },
     "plugins": [
         {
             "name": "emcalc-analyzer",
-            "source": "skills/emcalc-analyzer",
-            "description": "Analyzes and interprets E=mc² energy calculation outputs from emcalc.py"
+            "source": "./",
+            "description": "Analyzes and interprets E=mc² energy calculation outputs from emcalc.py",
+            "version": "1.0.0"
         }
     ]
 }

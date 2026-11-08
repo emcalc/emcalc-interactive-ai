@@ -1,6 +1,6 @@
 Thank you:
 
-[Eymn](github.com/eymndev)
+[Eymn](https://github.com/eymnyld)
 
 [tarik-celik](https://gitlab.com/tarik-celik/)
 
